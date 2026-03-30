@@ -83,3 +83,8 @@ This is a student project. It hasn't been clinically validated and should not be
 - REG.NO : 25BCE11043
 - BRANCH : BTECH CSE
 - VIT BHOPAL UNIVERSITY
+
+## OUTPUT RESULTS
+<img width="1399" height="805" alt="Screenshot 2026-03-30 at 11 27 18 PM" src="https://github.com/user-attachments/assets/b68301f1-22a1-432a-b315-16457638e0e1" />
+
+<img width="1385" height="808" alt="Screenshot 2026-03-30 at 11 27 41 PM" src="https://github.com/user-attachments/assets/fa529b01-1a8c-4918-9fff-b7cc23a975a1" />
